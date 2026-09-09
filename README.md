@@ -22,6 +22,15 @@ My goal is simple: learn, grow, and create my own future.
 
 ---
 
+## Photos
+
+<p align="center">
+  <img src="IMG_20250817_173235.jpg" width="220" />
+  <img src="IMG_20250817_173306.jpg" width="220" />
+  <img src="IMG-20251122-WA0000.jpg" width="220" />
+  <img src="lv_0_20260909161324.jpg" width="220" />
+</p>
+
 ## Details
 
 - Name: BM Rafi Sardar
